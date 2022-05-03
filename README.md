@@ -5,7 +5,7 @@ Instacart, an online grocery store that operates through an app, already has ver
 
 ## Key Questions
 The stakeholders would like to be able to answer the following key questions:
-
+```
 ● The sales team needs to know what the busiest days of the week and hours of the day are (i.e., the days and times with the most orders) in order to schedule ads at times when there are fewer orders.
 
 ● They also want to know whether there are particular times of the day when people spend the most money, as this might inform the type of products they advertise at these times.
