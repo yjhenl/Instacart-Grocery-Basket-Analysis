@@ -22,7 +22,8 @@ The stakeholders would like to be able to answer the following key questions:
   ordering behaviors differ. 
   For example:
 
-      ○   What’s the distribution among users in regards to their brand loyalty (i.e., how often do they return to Instacart)?
+      ○   What’s the distribution among users in regards to their brand loyalty 
+          (i.e., how often do they return to Instacart)?
 
       ○   Are there differences in ordering habits based on a customer’s loyalty status?
 
