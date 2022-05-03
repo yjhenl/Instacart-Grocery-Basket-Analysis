@@ -39,8 +39,8 @@ The stakeholders would like to be able to answer the following key questions:
  ```
  
 ## Resources
-Program used: Juypter Notebook version 6.3.0
+Tools: Jupyter notebooks 6.4.5, Anaconda libraries manager
 
-Packages: pandas, numpy, os, matplotlib, scipy, seaborn, pickle
+Skills: Python and relevant libraries (pandas, NumPy, os, matplotlib, scipy, and seaborn)
 
-Data Set Source: https://www.instacart.com/datasets/grocery-shopping-2017
+Data Sets: [The Instacart Online Grocery Shopping Dataset 2017](https://www.instacart.com/datasets/grocery-shopping-2017)
