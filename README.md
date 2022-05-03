@@ -14,23 +14,24 @@ The stakeholders would like to be able to answer the following key questions:
 
 ● Are there certain types of products that are more popular than others? The marketing and sales teams want to know which departments have the highest frequency of product orders.
 
-● The marketing and sales teams are particularly interested in the different types of customers in their system and how their ordering behaviors differ. For example:
+● The marketing and sales teams are particularly interested in the different types of customers in their system and how their ordering behaviors differ. 
+For example:
 
-○ What’s the distribution among users in regards to their brand loyalty (i.e., how often do they return to Instacart)?
+      ○   What’s the distribution among users in regards to their brand loyalty (i.e., how often do they return to Instacart)?
 
-○ Are there differences in ordering habits based on a customer’s loyalty status?
+      ○   Are there differences in ordering habits based on a customer’s loyalty status?
 
-○ Are there differences in ordering habits based on a customer’s region?
+      ○   Are there differences in ordering habits based on a customer’s region?
 
-○ Is there a connection between age and family status in terms of ordering habits?
+      ○   Is there a connection between age and family status in terms of ordering habits?
   
-○ What different classifications does the demographic information suggest?
-  Age? Income? Certain types of goods? Family status?
+      ○   What different classifications does the demographic information suggest?
+          Age? Income? Certain types of goods? Family status?
   
-○ What differences can you find in ordering habits of different customer
-  profiles? Consider the price of orders, the frequency of orders, the products
-  customers are ordering, and anything else you can think of.
+      ○   What differences can you find in ordering habits of different customer profiles? 
+          Consider the price of orders, the frequency of orders, the products customers are ordering, and anything else you can think of.
  ```
+ 
 ## Analysis Criteria
 ● Project folder follows industry standards in terms of structure and naming conventions.
 
