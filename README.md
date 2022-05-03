@@ -1,7 +1,7 @@
 # Instacart Grocery Basket Analysis
 
 ## Introduction
-The Instacart stakeholders are most interested in the variety of customers in their database along with their purchasing behaviors. They assume they can't target everyone using the same methods, and they’re considering a targeted marketing strategy. They want to target different customers with applicable marketing campaigns to see whether they have an effect on the sale of their products. Your analysis will inform what this strategy might look like to ensure Instacart targets the right customer profiles with the appropriate products
+Instacart, an online grocery store that operates through an app, already has very good sales, but they want to uncover more information about their sales patterns. The Instacart stakeholders are most interested in the variety of customers in their database along with their purchasing behaviors. They assume they can't target everyone using the same methods, and they’re considering a targeted marketing strategy. They want to target different customers with applicable marketing campaigns to see whether they have an effect on the sale of their products. My analysis will inform what this strategy might look like to ensure Instacart targets the right customer profiles with the appropriate products.
 
 ## Key Questions
 The stakeholders would like to be able to answer the following key questions:
@@ -16,7 +16,7 @@ The stakeholders would like to be able to answer the following key questions:
 
 ● The marketing and sales teams are particularly interested in the different types of customers in their system and how their ordering behaviors differ. For example:
 
-○ What’s the distribution among users in regards to their brand loyalty (i.e., how
+○○ What’s the distribution among users in regards to their brand loyalty (i.e., how
   often do they return to Instacart)?
 
 ○ Are there differences in ordering habits based on a customer’s loyalty status?
