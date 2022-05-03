@@ -39,8 +39,8 @@ The stakeholders would like to be able to answer the following key questions:
  ```
  
 ## Resources
-Tools: Jupyter notebooks 6.4.5, Anaconda libraries manager
+Tools: ```Jupyter notebooks 6.4.5, Anaconda libraries manager```
 
-Skills: Python and relevant libraries (pandas, NumPy, os, matplotlib, scipy, and seaborn)
+Skills: ```Python and relevant libraries (pandas, NumPy, os, matplotlib, scipy, and seaborn)```
 
 Data Sets: [The Instacart Online Grocery Shopping Dataset 2017](https://www.instacart.com/datasets/grocery-shopping-2017)
