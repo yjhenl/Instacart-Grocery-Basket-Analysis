@@ -60,8 +60,19 @@ The full details of the data are available here: [The Instacart Online Grocery S
 For this project, the following python libraries were used:
 
 ● pandas, NumPy, os - for data analysis
+
 ● matplotlib, scipy, and seaborn - for visualization
 
-Tools: ```Jupyter notebooks 6.4.5```, ```Anaconda libraries manager```
+## Executing the code
+
+The code is available as jupytor notebooks, available under /scripts/.
+
+To lunch the notebbok, open terminal and run the command with specific notebook's title.
+
+For example:
+
+● ``` jupyter notebook 4.09 Intro to Data Visualization with Python_Part 1.ipynb ```
+
+● ``` jupyter notebook 4.10 Coding Etiquette & Excel Reporting_Part 1.ipynb ```
 
 
