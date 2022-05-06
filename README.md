@@ -5,7 +5,7 @@
 
 <img src="https://github.com/YJLdata/Instacart-Grocery-Basket-Analysis/blob/main/instacart_logo.png" width="300" height="50">
 
-Instacart, an online grocery store that operates through an app, already has very good sales, but they want to uncover more information about their sales patterns. The Instacart stakeholders are most interested in the variety of customers in their database along with their purchasing behaviors. They assume they can't target everyone using the same methods, and they’re considering a targeted marketing strategy. They want to target different customers with applicable marketing campaigns to see whether they have an effect on the sale of their products. My analysis will inform what this strategy might look like to ensure Instacart targets the right customer profiles with the appropriate products.
+Instacart, an online grocery store that operates through an app, already has very good sales, but they want to uncover more information about their sales patterns. The objective of this study is to analyse customer behavior and uncover patterns for growth.
 
 ## Key Questions
 The stakeholders would like to be able to answer the following key questions:
@@ -43,9 +43,23 @@ The stakeholders would like to be able to answer the following key questions:
           and anything else you can think of.
  ```
  
-## Resources
+## Data
+
+The dataset comprisse of information on the following parameters:
+
+● orders
+● products
+● departments
+
+The full details of the data are available here: [The Instacart Online Grocery Shopping Dataset 2017](https://www.instacart.com/datasets/grocery-shopping-2017)
+
+## Tools
+
+For this project, the following python libraries were used:
+
+● pandas, NumPy, os - for data analysis
+● matplotlib, scipy, and seaborn - for visualization
+
 Tools: ```Jupyter notebooks 6.4.5```, ```Anaconda libraries manager```
 
-Skills: ```Python```, ```relevant libraries (pandas, NumPy, os, matplotlib, scipy, and seaborn)```
 
-Data Sets: [The Instacart Online Grocery Shopping Dataset 2017](https://www.instacart.com/datasets/grocery-shopping-2017)
