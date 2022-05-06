@@ -45,7 +45,7 @@ The stakeholders would like to be able to answer the following key questions:
  
 ## Data
 
-The dataset comprisse of information on the following parameters:
+The dataset comprises of information on the following parameters:
 
 ● orders
 
