@@ -1,6 +1,6 @@
 # Instacart Grocery Basket Analysis
 
-![img|320x271,50%](https://github.com/YJLdata/Instacart-Grocery-Basket-Analysis/blob/main/instacart_logo.png)
+![img|320x271,20%](https://github.com/YJLdata/Instacart-Grocery-Basket-Analysis/blob/main/instacart_logo.png)
 
 ## Introduction
 
