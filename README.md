@@ -48,7 +48,9 @@ The stakeholders would like to be able to answer the following key questions:
 The dataset comprisse of information on the following parameters:
 
 ● orders
+
 ● products
+
 ● departments
 
 The full details of the data are available here: [The Instacart Online Grocery Shopping Dataset 2017](https://www.instacart.com/datasets/grocery-shopping-2017)
