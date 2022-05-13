@@ -59,7 +59,7 @@ The full details of the data are available here: [The Instacart Online Grocery S
 
 For this project, the following python libraries were used:
 
-● pandas, NumPy, os - for data analysis
+● pandas, numpy, os - for data analysis
 
 ● matplotlib, scipy, and seaborn - for visualization
 
