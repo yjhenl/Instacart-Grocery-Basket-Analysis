@@ -71,8 +71,8 @@ To lunch the notebbok, open terminal and run the command with specific notebook'
 
 For example:
 
-● ``` jupyter notebook 4.09 Intro to Data Visualization with Python_Part 1.ipynb ```
+● ``` jupyter notebook Data Wrangling and Descriptive Analyses.ipynb ```
 
-● ``` jupyter notebook 4.10 Coding Etiquette & Excel Reporting_Part 1.ipynb ```
+● ``` jupyter notebook Visualizations for Key Questions.ipynb ```
 
 
