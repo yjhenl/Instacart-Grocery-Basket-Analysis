@@ -5,7 +5,7 @@
 
 <img src="https://github.com/YJLdata/Instacart-Grocery-Basket-Analysis/blob/main/instacart_logo.png" width="300" height="50">
 
-Instacart, an online grocery store that operates through an app, already has very good sales, but they want to uncover more information about their sales patterns. The objective of this study is to analyse customer behavior and uncover patterns for growth.
+Instacart, an online grocery store that operates through an app, already has very good sales, but they want to uncover more information about their sales patterns. The objective of this study is to analyze customer behavior and uncover patterns for growth.
 
 ## Key Questions
 The stakeholders would like to be able to answer the following key questions:
