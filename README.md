@@ -1,9 +1,9 @@
 # Instacart Grocery Basket Analysis
 
 
-## Introduction
+## Introduction 
 
-<img src="https://github.com/YJLdata/Instacart-Grocery-Basket-Analysis/blob/main/instacart_logo.png" width="300" height="50">
+<img src="https://github.com/YJLdata/Instacart-Grocery-Basket-Analysis/blob/main/instacart_logo.png" width="300" height="50"> 
 
 Instacart, an online grocery store that operates through an app, already has very good sales, but they want to uncover more information about their sales patterns. The objective of this study is to analyze customer behavior and uncover patterns for growth.
 
